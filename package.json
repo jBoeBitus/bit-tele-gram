@@ -1,0 +1,19 @@
+{
+  "name": "bit-tele-gram",
+  "version": "1.0.0",
+  "description": "Npm private pkg test for telegram CSM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jBoeBitus/bit-tele-gram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jBoeBitus/bit-tele-gram/issues"
+  },
+  "homepage": "https://github.com/jBoeBitus/bit-tele-gram#readme"
+}
