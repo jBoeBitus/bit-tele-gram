@@ -1,6 +1,6 @@
 {
   "name": "bit-tele-gram",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Npm private pkg test for telegram CSM",
   "main": "index.js",
   "scripts": {
